@@ -24,6 +24,13 @@
 
 * CLI-based System Design
 
+# ▶️ Run the Project
+
+git clone https://github.com/your-username/bank-management-system.git
+cd bank-management-system
+python main.py
+
+
 # 📌 Purpose
 
 * Built to demonstrate practical OOP implementation and real-world system modeling in Python.
