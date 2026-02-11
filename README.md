@@ -26,7 +26,7 @@
 
 # ▶️ Run the Project
 
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/Developer-aadi-AI/Bank_account_management.git
 
 cd bank-management-system
 
