@@ -27,7 +27,9 @@
 # ▶️ Run the Project
 
 git clone https://github.com/your-username/bank-management-system.git
+
 cd bank-management-system
+
 python main.py
 
 
